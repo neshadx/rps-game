@@ -1,20 +1,28 @@
-## Rock Paper Scissors - Game with VanillaJs
+# ✊✋✌️ Rock Paper Scissors – Built with Vanilla JS
 
-A rock paper scissors game created with pure vanilla javascript. The game is pretty advanced. It includes cool animations, modal popups, data storage in form of score and much more. All the modern ES6+ features are used to create the app. The design and functionality is all done by me from scratch.
+A modern and interactive **Rock Paper Scissors** game crafted entirely with **vanilla JavaScript**. This project includes smooth animations, stylish modal popups, real-time score tracking (stored in memory), and a fully responsive UI — all built from scratch using **ES6+** features.
 
-## Live Preview
+---
 
-[Rock Paper Scissors - Live Game](https://rockpaperscissor-dk.netlify.app/)
+## 🔗 Live Demo
 
-## Tools
+🎮 [Play Rock Paper Scissors Now] (Coming)
 
-- HTML, CSS, and Javascript
-- CSS Transitions and Animations
-- DOM Manipulation and Traversing the DOM
-- Modal Popups
-- Arrow Functions [A lot]
-- setTimeout Api
+---
 
-## Preview
+## 🧰 Tech Stack & Features
 
-![Final App](./assests/final-app.png)
+- ✅ **HTML, CSS, JavaScript**
+- ✨ **CSS Transitions & Animations** for smooth interactions
+- 🔁 **Dynamic DOM Manipulation** using `querySelector`, `addEventListener`, etc.
+- 💬 **Modal Popups** for game outcomes and instructions
+- 🧠 **Score Tracking** with in-memory data storage
+- ⚡ **Modern JavaScript (ES6+)**:
+  - Arrow Functions
+  - Template Literals
+  - `setTimeout()` for game timing
+  - Event Delegation
+
+---
+
+### 🔥 Let the game begin — may the odds be ever in your favor!
